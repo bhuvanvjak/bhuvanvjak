@@ -159,6 +159,4 @@
   
 **Thanks for visiting! 🚀 Let's build something amazing together!**
 
-![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
 </div>
