@@ -70,7 +70,7 @@
 🎯 Purpose: Leveraging state-of-the-art AI for accurate gender classification
 ⭐ Highlights: Multi-modal learning, High accuracy, Research-oriented approach
 ```
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvanvjak)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvanvjak/gender-classification-with-CLIP)
 
 ---
 
@@ -81,7 +81,7 @@
 🎯 Purpose: Helping students find their perfect college match
 ⭐ Highlights: User-friendly interface, Personalized recommendations, Accessible design
 ```
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvanvjak) [![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://collegerecommendationsystem-1.onrender.com/)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvanvjak/CollegeRecommendationSystem) [![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://collegerecommendationsystem-1.onrender.com/)
 
 ---
 
@@ -92,7 +92,7 @@
 🎯 Purpose: Breaking language barriers with instant translation
 ⭐ Highlights: Real-time processing, Multiple languages, Dynamic interactions
 ```
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvanvjak) [![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://livetranslation.onrender.com)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvanvjak/LiveTranslation) [![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://livetranslation.onrender.com)
 
 </div>
 
