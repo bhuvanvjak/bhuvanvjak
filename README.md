@@ -4,7 +4,9 @@ I build LLM applications for people who will never read a line of code — finan
 
 Currently: shipping a local-LLM finance agent in production at RealPage. Before that: debugging generative vision pipelines at Tech Mahindra's Makers Lab.
 
-📍 Hyderabad, India · [vukkemBhuvan@gmail.com](mailto:bhuvanesh9139@gmail.com)
+📍 Hyderabad, India · [vukkemBhuvan@gmail.com](mailto:vukkemBhuvan@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=bhuvanvjak&color=blue&style=flat-square&label=profile+views)
 
 ---
 
@@ -32,6 +34,10 @@ The hard part wasn't the LLM call, it was everything around it: the full workboo
 Non-finance teams kept pinging the FP&A team for basic number lookups. Built a tool-calling agent (Qwen 13B) that lets anyone ask a plain-English question and get back a real, database-verified answer — no SQL required on either end.
 `Qwen 13B` `Tool-calling` `Structured outputs`
 
+### 💬 Finance Chatbot
+Same problem as above, different constraint: this one needed to run off a cloud API rather than on-device. Built on Groq's LLM API for real-time query handling — gave me a direct comparison of local vs. cloud-hosted LLM tradeoffs on the same underlying use case.
+`Groq API` `Python`
+
 ### 📊 Revenue Data Extraction Pipeline
 360 revenue centres, one Excel file each, one analyst doing it by hand. Wrote a pandas/glob/openpyxl pipeline that walks all 360 automatically.
 **Result:** 2-week manual extract → 2 days.
@@ -49,6 +55,8 @@ End-to-end ML app, deployed — not just a notebook. Preprocessing through Flask
 
 ## Technical Skills
 
+![Skills](https://skillicons.dev/icons?i=python,js,java,c,react,flask,fastapi,git,github,postman,pytorch,tensorflow,sklearn&theme=light)
+
 **Languages:** Python, JavaScript, SQL, Java, C
 **AI / LLMs:** Mistral 7B, Qwen 13B, Groq API, OpenAI CLIP, Stable Diffusion, ControlNet, HuggingFace Transformers
 **AI Frameworks:** LangChain (basic), LM Studio, prompt engineering, tool-calling agents, structured outputs
@@ -61,10 +69,20 @@ End-to-end ML app, deployed — not just a notebook. Preprocessing through Flask
 
 ---
 
+## Certifications
+
+- **NPTEL:** Python for Data Science · Business Intelligence & Analytics
+- **Coursera:** What is Data Science?
+- **Udemy:** Master Data Science Prerequisites · Computer Vision – Image Processing
+- **Cisco:** Getting Started with Data Science
+
+---
+
 ## GitHub Activity
 
 ![Bhuvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvanvjak&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanvjak&layout=compact&theme=default&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=bhuvanvjak&theme=default&hide_border=true)
 
 ---
 
