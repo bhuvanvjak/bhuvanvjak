@@ -80,9 +80,11 @@ End-to-end ML app, deployed — not just a notebook. Preprocessing through Flask
 
 ## GitHub Activity
 
-![Bhuvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvanvjak&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanvjak&layout=compact&theme=default&hide_border=true)
-![Streak Stats](https://streak-stats.demolab.com/?user=bhuvanvjak&theme=default&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhuvanvjak&show_icons=true&rank_icon=github&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanvjak&layout=compact&theme=transparent" />
+
+<img src="https://streak-stats.demolab.com?user=bhuvanvjak&theme=transparent" />
 
 ---
 
